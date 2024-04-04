@@ -5,6 +5,8 @@ This is maintained by the [AIML](https://www.adelaide.edu.au/aiml/) Engineering 
 
 ## AIML Shop Projects
 
+AIML Shop is a [Center for Augmented Reasoning](https://www.adelaide.edu.au/aiml/car) initiative.
+
 ### [Any Track](https://github.com/aiml-au/anytrack)
 
 Track markers on anything using multiple views.
