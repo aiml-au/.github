@@ -1,7 +1,7 @@
 The Australian Institute for Machine Learning
 ========================
 
-Maintained by the [AIML](https://www.adelaide.edu.au/aiml/) Engineering team.
+This GitHub is maintained by the [AIML](https://www.adelaide.edu.au/aiml/) Engineering team. Please report Issues for projects via the GitHub Issues area.
 
 ## AIML Shop Projects
 
