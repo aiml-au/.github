@@ -1,7 +1,7 @@
 The Australian Institute for Machine Learning
 ========================
 
-This is maintained by the [AIML](https://www.adelaide.edu.au/aiml/) Engineering team.
+Maintained by the [AIML](https://www.adelaide.edu.au/aiml/) Engineering team.
 
 ## AIML Shop Projects
 
