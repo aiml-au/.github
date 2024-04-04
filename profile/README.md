@@ -1,28 +1,22 @@
 The Australian Institute for Machine Learning
 ========================
 
-This is maintained by the AIML Engineering team.
-
-<https://www.adelaide.edu.au/aiml/>
+This is maintained by the [AIML](https://www.adelaide.edu.au/aiml/) Engineering team.
 
 ## AIML Shop Projects
 
-### Any Track
+### [Any Track](https://github.com/aiml-au/anytrack)
 
-Track markers on anything using multiple views:  
-<https://github.com/aiml-au/anytrack>
+Track markers on anything using multiple views.
 
-### Class Tree
+### [Class Tree](https://github.com/aiml-au/classtree)
 
-Improve hierarchical classifiers using a class hierarchy:  
-<https://github.com/aiml-au/classtree>
+Improve hierarchical classifiers using a class hierarchy.
 
-### Seg Mesh
+### [Seg Mesh](https://github.com/aiml-au/segmesh)
 
-GPU-accelerated NN segmentation of 3D meshes and models:  
-<https://github.com/aiml-au/segmesh>
+GPU-accelerated NN segmentation of 3D meshes and models.
 
-### Noisy Labels
+### [Noisy Labels](https://github.com/aiml-au/noisylabels)
 
-Improve your data labels using Label Studio and this plugin:  
-<https://github.com/aiml-au/noisylabels>
+Improve your data labels using Label Studio and this plugin.
