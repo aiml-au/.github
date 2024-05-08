@@ -25,4 +25,4 @@ Improve your data labels using Label Studio and this plugin.
 
 ## Need access to a private AIML repo?
 
-Please email <admins@aiml.team> and provide details of your organization, existing GitHub account, and the repo that you with to access (please CC your supervisor).
+Please email "admins (at) aiml (dot) team" and provide details of your organization, existing GitHub account, and the repo that you wish to access (please CC your supervisor).
