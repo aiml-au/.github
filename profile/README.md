@@ -22,3 +22,7 @@ GPU-accelerated NN segmentation of 3D meshes and models.
 ### [Noisy Labels](https://github.com/aiml-au/noisylabels)
 
 Improve your data labels using Label Studio and this plugin.
+
+## Need access to a private AIML repo?
+
+Please email <admins@aiml.team> and provide details of your organization, existing GitHub account, and the repo that you with to access (please CC your supervisor).
