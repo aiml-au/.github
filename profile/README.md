@@ -23,6 +23,10 @@ GPU-accelerated NN segmentation of 3D meshes and models.
 
 Improve your data labels using Label Studio and this plugin.
 
+### [Enterprise Search](https://github.com/aiml-au/enterprise-search)
+
+Get answers on your private data locally and securely with Enterprise Search.
+
 ## Need access to a private AIML repo?
 
 Please email "admins (at) aiml (dot) team" and provide details of your organization, existing GitHub account, and the repo that you wish to access (please CC your supervisor).
